@@ -46,8 +46,8 @@
 - **手感优化**: 韵母分布利用程序算法 + 人工设计，**重码率**和**手感**皆超过传统音形、形码输入法。
 - **字词库大**: 目前已包含 **4.5 万 +** 单字和 **约 17 万** 词组。
 
-**以下是传统双拼常见的重码词组，自然龙可以全部离散**：
-| 易重码词                     | 自然龙编码                   |
+以下是传统双拼常见的重码词组，自然龙可以**全部离散**：
+| 重码词                       | 自然龙编码                   |
 | ---------------------------- | ---------------------------- |
 | 哪里、那里                   | nmlg、nilg                   |
 | 不对、部队                   | bldf、bhdf                   |
@@ -218,11 +218,11 @@
 
 **单字测评**：
 
-![字测评](https://raw.githubusercontent.com/Elflare/images-repo/main/zrlong/bench/zi.jpg)
+![字测评](https://raw.githubusercontent.com/Elflare/images-repo/refs/heads/main/zrlong/bench/zi.png)
 
 **词组测评**：
 
-![词测评](https://raw.githubusercontent.com/Elflare/images-repo/main/zrlong/bench/ci.jpg)
+![词测评](https://raw.githubusercontent.com/Elflare/images-repo/refs/heads/main/zrlong/bench/ci.png)
 
 ## 鸣谢
 
