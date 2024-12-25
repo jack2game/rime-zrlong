@@ -153,7 +153,7 @@ speller:
     - xform/ing5$/E/
     - xform/(.)ou1$/$1X/
     - xform/(.)ou5$/$1X/
-    - xform/(.)an2$/$1P/
+    - xform/(.)an2$/$1Z/
     - xform/(.)en3$/$1O/
     - xform/en3$/O/
     - xform/(.)en4$/$1O/
