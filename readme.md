@@ -33,7 +33,6 @@
   - [飞键](#飞键)
 - [性能测评](#性能测评)
 - [鸣谢](#鸣谢)
-- [](#)
 
 ## 简介
 
@@ -47,20 +46,19 @@
 - **字词库大**: 目前已包含 **4.5 万 +** 单字和 **约 17 万** 词组。
 
 以下是传统双拼常见的重码词组，自然龙可以**全部离散**：
-| 重码词                       | 自然龙编码                   |
+| 重码词组 | 自然龙编码 |
 | ---------------------------- | ---------------------------- |
-| 哪里、那里                   | nmlg、nilg                   |
-| 不对、部队                   | bldf、bhdf                   |
-| 同时、同事                   | tjub、tjut                   |
-| 教室、教师                   | jlut、jluj                   |
-| 使用、试用、实用             | ugyy、utyy、ubyy             |
-| 事实、试试、实时、实事       | utub、utut、ubub、ubut       |
-| 消失、消逝、小事、小时       | xmuj、xmut、xlut、xlub       |
-| 物理、屋里、无力、武力       | whlg、walg、wllt、wmlt       |
+| 哪里、那里 | nmlg、nilg |
+| 不对、部队 | bldf、bhdf |
+| 同时、同事 | tjub、tjut |
+| 教室、教师 | jlut、jluj |
+| 使用、试用、实用 | ugyy、utyy、ubyy |
+| 事实、试试、实时、实事 | utub、utut、ubub、ubut |
+| 消失、消逝、小事、小时 | xmuj、xmut、xlut、xlub |
+| 物理、屋里、无力、武力 | whlg、walg、wllt、wmlt |
 | 知识、只是、智识、指使、芝士 | vjub、vgut、vtub、vgug、vjut |
 
 **欢迎线上试用体验**：[自然龙线上试用](https://my-rime.vercel.app/?plum=Elflare/rime-zrlong:zrlong,zrlong_sentence)。更多性能测评详见[性能测评](#性能测评)
-
 
 > 本仓库基于 Rime 平台。
 
