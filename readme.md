@@ -11,11 +11,13 @@
 **免责声明**：本仓库为自用分享，可能存在诸多不足和错误。如果您选择使用此仓库，请自行承担可能产生的风险和责任。感谢您的理解和支持！
 
 ---
+
 ## 目录
 
+- [目录](#目录)
 - [简介](#简介)
 - [安装](#安装)
-  - [使用 `Git` 安装](#使用-Git-安装)
+  - [使用 `Git` 安装](#使用-git-安装)
   - [手动安装](#手动安装)
 - [用法](#用法)
   - [键位图](#键位图)
@@ -31,6 +33,7 @@
   - [飞键](#飞键)
 - [性能测评](#性能测评)
 - [鸣谢](#鸣谢)
+- [](#)
 
 ## 简介
 
@@ -39,9 +42,24 @@
 - **韵调统一**：传统双拼往往不区分声调，导致编码信息利用率低下，离散弱，重码多；传统带调输入方案往往又码长太长。自然龙将**韵母带上声调**并统一在**一个**键上，高效利用编码空间，单字能力和词组能力均大幅提高。
 - **静态码表**：使用静态码表，确定性 100%，所有字词尽在掌握，可随意盲打，安全感拉满。
 - **四码定长**：单字和词组最大码长为 4，打 2 字词**声韵声韵**有节奏感，输入体验舒适。
-- **双拼加形**：结合了双拼的高效率和形码的高准确性，形码部分采用自然码的辅助码，首码**义部优先**，**次码取大**，直观自然。
+- **双拼加形**：结合了双拼的高效率和形码的高准确性，形码部分采用自然码的辅助码，首码**义部优先，次码取大**，直观自然。
 - **手感优化**: 韵母分布利用程序算法 + 人工设计，**重码率**和**手感**皆超过传统音形、形码输入法。
 - **字词库大**: 目前已包含 **4.5 万 +** 单字和 **约 17 万** 词组。
+
+**以下是传统双拼常见的重码词组，自然龙可以全部离散**：
+| 易重码词                     | 自然龙编码                   |
+| ---------------------------- | ---------------------------- |
+| 哪里、那里                   | nmlg、nilg                   |
+| 不对、部队                   | bldf、bhdf                   |
+| 同时、同事                   | tjub、tjut                   |
+| 教室、教师                   | jlut、jluj                   |
+| 使用、试用、实用             | ugyy、utyy、ubyy             |
+| 事实、试试、实时、实事       | utub、utut、ubub、ubut       |
+| 消失、消逝、小事、小时       | xmuj、xmut、xlut、xlub       |
+| 物理、屋里、无力、武力       | whlg、walg、wllt、wmlt       |
+| 知识、只是、智识、指使、芝士 | vjub、vgut、vtub、vgug、vjut |
+
+**欢迎线上试用体验**：[自然龙线上试用](https://my-rime.vercel.app/?plum=Elflare/rime-zrlong:zrlong,zrlong_sentence)。更多性能测评详见[性能测评](#性能测评)
 
 
 > 本仓库基于 Rime 平台。
@@ -49,9 +67,10 @@
 ---
 
 **NEW**:
+
 - 2024 年 4 月 25 日增加了整句模式，和普通双拼打法一样，不再赘述。(Thanks to [冰雪拼音](https://github.com/hanzi-chai/rime-snow-pinyin))<br>
 - 2024 年 5 月 13 日新增带辅的整句模式。由于内容太多，未合并至本仓库，详情见 [魔龙](https://github.com/jack2game/rime-molong)。
--  **线上试用**：[自然龙线上试用](https://my-rime.vercel.app/?plum=Elflare/rime-zrlong:zrlong,zrlong_sentence)
+
 ## 安装
 
 **注意**：
@@ -113,6 +132,7 @@
 > This picture is from [℞ 魔然](https://github.com/rimeinn/rime-moran)
 
 > 部首主要参考自 [汉典](https://www.zdic.net/) 和 [百度百科](https://baike.baidu.com/)
+
 ### 编码方式
 
 #### 单字编码
@@ -148,7 +168,7 @@
 - 虎码反查：用 \` 引导，`X` 代表任意字母，`+` 代表需要一个或多个字母
 - 笔画反查：用 `obh` 引导，`hpszd` 分别代表横撇竖折点，`+` 代表需要一个或多个字母
 - 两分反查：用 `olf` 引导，自然码双拼编码，`+` 代表需要一个或多个字母
-> 在反查时，上述前缀会被隐藏，以避免干扰。
+  > 在反查时，上述前缀会被隐藏，以避免干扰。
 
 |  反查方式  |       规则       | 演示编码 |                                             演示图片                                              |
 | :--------: | :--------------: | :------: | :-----------------------------------------------------------------------------------------------: |
@@ -185,6 +205,7 @@
   ![简码提示](https://raw.githubusercontent.com/Elflare/images-repo/main/zrlong/sample/jianmatishi.jpg)
 - **二简词补全**：将 `自然龙二简补全.txt` 中的内容复制到 `zrlong.dict.yaml` 中（thanks to 西金石）
 - **辅码部首**：用 `ob` 引导，如 `obc` ，则出现 `艹` 等部首（thanks to 西金石）
+
 ### 飞键
 
 - 仅将声母 y 飞到了 e，原因是 e 的英文发音和 y 的拼音很像。韵母不受影响。
@@ -213,8 +234,9 @@
 - [℞ 冰雪拼音](https://github.com/hanzi-chai/rime-snow-pinyin)：整句模式使用的冰雪拼音数据
 - [虎码](https://tiger-code.com/)：词频信息
 - [测评工具](https://yb6b.github.io/#/)
+
 ---
-[![Star History Chart](https://api.star-history.com/svg?repos=rimeinn/rime-zrlong&type=Date)](https://star-history.com/#rimeinn/rime-zrlong&Date)
----
+
+## [![Star History Chart](https://api.star-history.com/svg?repos=rimeinn/rime-zrlong&type=Date)](https://star-history.com/#rimeinn/rime-zrlong&Date)
 
 协议：方案主体依 [CC-BY 4.0](http://creativecommons.org/licenses/by/4.0/) 协议，除非对应文件中另有说明。
