@@ -217,11 +217,11 @@
 
 **单字测评**：
 
-![字测评](https://raw.githubusercontent.com/Elflare/images-repo/refs/heads/main/zrlong/bench/zi.jpg)
+![字测评](https://raw.githubusercontent.com/Elflare/images-repo/refs/heads/main/zrlong/bench/zi.png)
 
 **词组测评**：
 
-![词测评](https://raw.githubusercontent.com/Elflare/images-repo/refs/heads/main/zrlong/bench/ci.jpg)
+![词测评](https://raw.githubusercontent.com/Elflare/images-repo/refs/heads/main/zrlong/bench/ci.png)
 
 ## 鸣谢
 
