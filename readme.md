@@ -203,6 +203,7 @@
   ![简码提示](https://raw.githubusercontent.com/Elflare/images-repo/main/zrlong/sample/jianmatishi.jpg)
 - **二简词补全**：将 `自然龙二简补全.txt` 中的内容复制到 `zrlong.dict.yaml` 中（thanks to 西金石）
 - **辅码部首**：用 `ob` 引导，如 `obc` ，则出现 `艹` 等部首（thanks to 西金石）
+- **出简让全**：默认是出简让全，若想出简不出全，可以在 `zrlong.schema.yaml` 中，注释掉 `table_translator@zrlong_full`
 
 ### 飞键
 
