@@ -51,6 +51,7 @@ engine:
     - table_translator@custom_phrase # 自定義短語
     - table_translator@fixed
     - table_translator@zkci
+    - table_translator@zrlong_full
     # - history_translator@repeat
     - lua_translator@*moran_shijian # 日期orq 節氣ojq 星期oxq 時間osj
     - lua_translator@*moran_number # 數字轉大寫
@@ -92,6 +93,16 @@ custom_phrase: # 自定義短語
   enable_completion: false
   enable_sentence: true
   initial_quality: 20000
+
+#全码码表
+zrlong_full:
+  dictionary: ""
+  user_dict: zrlong_full_code_table
+  db_class: stabledb
+  enable_sentence: false
+  enable_completion: false
+  encode_commit_history: false # 是否開啓自動造詞
+  initial_quality: 1
 
 reverse_format:
   comment_format:

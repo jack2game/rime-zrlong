@@ -114,7 +114,7 @@ speller:
     - xform/(.)ang4$/$1D/
     - xform/(.)ong1$/$1K/
     - xform/(.)ong5$/$1K/
-    - xform/(.)ei4$/$1K/
+    - xform/(.)ei4$/$1F/
     - xform/(.)ai2$/$1D/
     - xform/(.)ao4$/$1V/
     - xform/(.)ao3$/$1X/
@@ -153,7 +153,7 @@ speller:
     - xform/ing5$/E/
     - xform/(.)ou1$/$1X/
     - xform/(.)ou5$/$1X/
-    - xform/(.)an2$/$1Q/
+    - xform/(.)an2$/$1K/
     - xform/(.)en3$/$1O/
     - xform/en3$/O/
     - xform/(.)en4$/$1O/
