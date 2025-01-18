@@ -135,15 +135,15 @@
 
 #### 单字编码
 
-| 单字编码      | 演示编码         |                                            演示图片                                            |
-| ------------- | ---------------- | :--------------------------------------------------------------------------------------------: |
-| 声            | d                |  ![示例图片](https://raw.githubusercontent.com/Elflare/images-repo/main/zrlong/sample/d.jpg)   |
-| 声韵          | di               |  ![示例图片](https://raw.githubusercontent.com/Elflare/images-repo/main/zrlong/sample/di.jpg)  |
-| 零声母一简    | a                |  ![示例图片](https://raw.githubusercontent.com/Elflare/images-repo/main/zrlong/sample/a.jpg)   |
-| 零声母 + 韵母 | ao (aì 在 o 上)  |  ![示例图片](https://raw.githubusercontent.com/Elflare/images-repo/main/zrlong/sample/ao.jpg)  |
-| 零声母 + 韵母 | aw (áng 在 w 上) |  ![示例图片](https://raw.githubusercontent.com/Elflare/images-repo/main/zrlong/sample/aw.jpg)  |
-| 声韵辅        | usu              | ![示例图片](https://raw.githubusercontent.com/Elflare/images-repo/main/zrlong/sample/usu.jpg)  |
-| 声韵辅辅      | ytdy             | ![示例图片](https://raw.githubusercontent.com/Elflare/images-repo/main/zrlong/sample/ytdy.jpg) |
+| 单字编码      | 演示编码         |                                                 演示图片                                                  |
+| ------------- | ---------------- | :-------------------------------------------------------------------------------------------------------: |
+| 声            | d                |  ![示例图片](https://raw.githubusercontent.com/Elflare/images-repo/refs/heads/main/zrlong/sample/d.jpg)   |
+| 声韵          | di               |  ![示例图片](https://raw.githubusercontent.com/Elflare/images-repo/refs/heads/main/zrlong/sample/di.jpg)  |
+| 零声母一简    | a                |  ![示例图片](https://raw.githubusercontent.com/Elflare/images-repo/refs/heads/main/zrlong/sample/a.jpg)   |
+| 零声母 + 韵母 | ao (aì 在 o 上)  |  ![示例图片](https://raw.githubusercontent.com/Elflare/images-repo/refs/heads/main/zrlong/sample/ao.jpg)  |
+| 零声母 + 韵母 | aw (áng 在 w 上) |  ![示例图片](https://raw.githubusercontent.com/Elflare/images-repo/refs/heads/main/zrlong/sample/aw.jpg)  |
+| 声韵辅        | usu              | ![示例图片](https://raw.githubusercontent.com/Elflare/images-repo/refs/heads/main/zrlong/sample/usu.jpg)  |
+| 声韵辅辅      | ytdy             | ![示例图片](https://raw.githubusercontent.com/Elflare/images-repo/refs/heads/main/zrlong/sample/ytdy.jpg) |
 
 #### 词编码
 
