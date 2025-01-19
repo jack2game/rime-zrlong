@@ -66,8 +66,11 @@
 
 **NEW**:
 
-- 2024 年 4 月 25 日增加了整句模式，和普通双拼打法一样，不再赘述。(Thanks to [冰雪拼音](https://github.com/hanzi-chai/rime-snow-pinyin))<br>
+- 2024 年 4 月 25 日增加了整句模式，和普通双拼打法一样，不再赘述。(Thanks to [冰雪拼音](https://github.com/hanzi-chai/rime-snow-pinyin))
 - 2024 年 5 月 13 日新增带辅的整句模式。由于内容太多，未合并至本仓库，详情见 [魔龙](https://github.com/jack2game/rime-molong)。
+- 2025 年 1 月 19 日新增字词动态模式。1 - 3 码静态，4 码所有字词动态调频，包括自造词。若想固定某个字词，有两种方式：
+    1. 在 `zrlong_custom_phrases.txt` 中添加，以自定义短语方式固定。
+    2. 在 `zrlong_fixed.dict.yaml` 中添加，以码表方式固定。
 
 ## 安装
 

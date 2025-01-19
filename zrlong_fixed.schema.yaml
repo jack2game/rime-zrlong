@@ -1,0 +1,9 @@
+# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: zrlong_fixed
+  name: "自然龙动态·伪方案·勿用"
+
+translator:
+  dictionary: zrlong_fixed
