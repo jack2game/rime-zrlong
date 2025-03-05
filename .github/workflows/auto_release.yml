@@ -1,0 +1,33 @@
+name: Auto Release
+
+on:
+  push:
+    tags:
+      - "v*"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Extract version from tag
+        run: |
+          VERSION=${GITHUB_REF#refs/tags/v}
+          echo "VERSION=${VERSION}" >> $GITHUB_ENV
+
+      - name: Create release zip archive
+        run: |
+          zip -r zrlong_v${{ env.VERSION }}.zip . -x ".*" -x "*/.*"
+
+      - name: Upload Release File
+        uses: softprops/action-gh-release@v2
+        if: startsWith(github.ref, 'refs/tags/')
+        with:
+          tag_name: ${{ github.ref }}
+          name: zrlong_v${{ env.VERSION }}
+          files: zrlong_v${{ env.VERSION }}.zip
+          body_path: ./release.md
