@@ -87,17 +87,7 @@
 2. **克隆仓库**：
    - 使用 `git clone` 命令克隆仓库。如果您已经安装了 Git，可以直接执行以下命令：
      ```bash
-     git clone --depth=1 https://github.com/Elflare/rime-zrlong.git
-     ```
-3. **移动到目录**：
-
-   - 使用命令将其移动到 Rime 的用户目录：
-     ```bash
-     robocopy rime-zrlong "您的 Rime 用户目录" /E /MOVE
-     ```
-   - 或：
-     ```bash
-     xcopy rime-zrlong "您的 Rime 用户目录" /E /I /Y
+     git clone --depth=1 https://github.com/Elflare/rime-zrlong.git "您的 Rime 用户目录"
      ```
 
 ### 手动安装
