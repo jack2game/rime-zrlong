@@ -52,6 +52,7 @@
 | 同时、同事 | tjub、tjut |
 | 教室、教师 | jlut、jluj |
 | 使用、试用、实用 | ugyy、utyy、ubyy |
+| 事件、时间、实践、世间 | utja、ubjr、ubja、utjr |
 | 事实、试试、实时、实事 | utub、utut、ubub、ubut |
 | 消失、消逝、小事、小时 | xmuj、xmut、xlut、xlub |
 | 物理、屋里、无力、武力 | whlg、walg、wllt、wmlt |
