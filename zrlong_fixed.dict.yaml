@@ -1,10 +1,10 @@
 # 自然龙・静态码表
 # encoding: utf-8
 # license: CC-BY-SA 4.0+
-# author: 晡时之光 -> modded by 小幽幽
+# author: 晡时之光 -> modded by Elflare
 ---
 name: zrlong_fixed
-version: "2025-03-05 10:59:46"
+version: "2025-03-30 10:39:43"
 sort: by_weight
 columns:
   - text
@@ -1000,7 +1000,6 @@ encoder:
 徐	xmx	287405
 型	xnt	286621
 亡	wwd	286000
-扇	ujh	283532
 讨	txy	282187
 辈	bfi	281934
 懂	dnx	281376
@@ -1298,6 +1297,8 @@ encoder:
 鸡	jjn	184249
 珍	vew	183710
 伏	flr	183556
+扇	ujh	183532
+扇	unh	183532
 相	xem	183389
 绍	uvs	183310
 爬	pu	183266
@@ -1943,7 +1944,7 @@ encoder:
 咳	kek	76958
 恍	hux	76884
 贯	gcb	76864
-魄	pgb	76856
+魄	pgg	76856
 柄	bwm	76845
 堡	bxt	76755
 患	hcx	76682
@@ -2265,7 +2266,6 @@ encoder:
 刺	cjd	51292
 叠	dsq	51212
 遣	qpz	51164
-晌	upo	51129
 麟	lcl	51074
 粒	ltm	50991
 估	ghr	50928
@@ -2484,6 +2484,7 @@ encoder:
 绣	xos	38793
 硕	upu	38779
 肺	ffo	38759
+朔	upo	38750
 扫	sv	38591
 炒	ixh	38581
 邮	yae	38473
@@ -2793,6 +2794,7 @@ encoder:
 卒	zlw	24626
 颓	twy	24497
 睿	rfo	24474
+呸	pik	24447
 噗	pak	24442
 诅	zmy	24236
 嘲	vqk	24202
@@ -2822,7 +2824,6 @@ encoder:
 叭	blk	23566
 撇	pkf	23502
 撇	pcf	23502
-咆	pik	23494
 滥	ljd	23420
 梧	wlm	23401
 翘	qlg	23328
@@ -3142,6 +3143,7 @@ encoder:
 蛤	hui	14867
 蛤	gei	14867
 馒	mku	14818
+痞	pgb	14766
 氧	ypq	14746
 贿	hfb	14729
 肮	auo	14717
@@ -3257,7 +3259,6 @@ encoder:
 俨	yor	12202
 跷	qmz	12194
 撅	juf	12167
-煽	unh	12159
 缰	jys	12118
 逮	doz	12104
 猝	chq	12077
@@ -3318,6 +3319,7 @@ encoder:
 烨	yih	11080
 噼	pjk	11014
 咎	jok	11012
+亵	xqw	11009
 蠕	rli	11004
 觑	qfj	11002
 冕	mpo	10994
@@ -3940,117 +3942,7 @@ encoder:
 埔	pmt	3994
 毗	pbt	3984
 褴	lky	3959
-瘁	cfb	3936
-铝	lsj	3934
-椎	vtm	3927
-憩	qtx	3905
-锚	mij	3900
-耘	yfl	3869
-俾	bgr	3864
-鬃	zki	3860
-祢	mbu	3851
-苒	roc	3850
-楷	jkm	3849
-鱿	yay	3849
-扳	pnf	3848
-价	jkr	3848
-袈	jdy	3831
-豺	idv	3825
-掇	dsf	3820
-熟	uah	3798
-贮	vhb	3787
-塾	ult	3783
-孬	nqb	3769
-胳	geo	3764
-犟	jen	3756
-酉	yza	3752
-匝	zlj	3734
-珩	hfw	3734
-潢	hbd	3727
-臃	yko	3726
-阪	boe	3695
-冗	rn	3678
-闳	hjm	3673
-阙	qdm	3667
-皿	mxa	3662
-岗	guu	3657
-颌	hey	3656
-豁	hsg	3654
-闰	rrm	3632
-臼	jop	3624
-蹩	bsz	3620
-煲	bqh	3617
-怵	ihx	3616
-蚓	yxi	3612
-於	waf	3605
-於	yhf	3605
-姒	stn	3601
-擞	szf	3577
-灸	jzh	3571
-应	eeg	3554
-蚯	qzi	3554
-应	ew	3554
-娆	rxn	3549
-娆	rin	3549
-堑	qat	3544
-玟	wsw	3544
-谗	iky	3541
-嵘	rju	3539
-箩	llv	3538
-碱	jpu	3521
-菌	jrc	3521
-葆	bxc	3519
-煞	ulh	3511
-谆	vgy	3505
-旎	ngf	3505
-粽	zym	3503
-牒	dsp	3502
-泸	lld	3499
-刽	gfd	3494
-哩	lgk	3489
-锷	eij	3471
-诋	dgy	3468
-惇	dgx	3466
-缜	vos	3455
-贰	ehb	3444
-坳	avt	3440
-睑	jpo	3438
-妪	yfn	3418
-镂	lrj	3408
-癸	gvd	3405
-沣	fcd	3396
-笆	blv	3384
-壬	rsp	3379
-莘	uec	3371
-箕	jjv	3366
-姹	iin	3350
-赳	jzz	3339
-越	ed	3338
-焊	hjh	3324
-纭	yfs	3322
-淬	cfd	3322
-埠	bht	3319
-圳	vot	3315
-酵	jly	3290
-佶	jbr	3270
-犒	kvn	3262
-茱	vac	3252
-叉	iuy	3249
-饪	rou	3245
-孪	loy	3236
-嗟	jkk	3220
-钙	goj	3218
-咱	zuk	3215
-咱	znk	3215
-鲲	kgy	3210
-谚	yjy	3210
-谟	mey	3201
-馊	sxu	3198
-雉	vtv	3195
-翦	jpy	3195
-虱	uji	3191
-磅	pwu	3181
-赈	vob	3169
+壬	rsp	3952
 旮	glj	3168
 峋	xfu	3167
 呲	cjk	3154
@@ -4084,6 +3976,7 @@ encoder:
 泌	btd	2956
 腴	ymo	2956
 碴	iuu	2953
+饪	rsu	2952
 汾	fsd	2940
 顼	xhw	2931
 伽	qsr	2927
@@ -4217,6 +4110,7 @@ encoder:
 仔	zgr	2300
 僖	xjr	2300
 纫	ros	2294
+埔	bht	2282
 猊	nbq	2254
 胛	jno	2253
 槟	bhm	2244
@@ -4234,6 +4128,7 @@ encoder:
 音	ehl	2200
 苋	xac	2198
 肛	guo	2191
+阕	qdm	2173
 桠	ylm	2171
 涿	vsd	2170
 郃	hee	2164
@@ -4241,7 +4136,7 @@ encoder:
 睥	pto	2153
 稔	roh	2145
 锲	qqj	2139
-影	ewp	2134
+影	ew	2134
 獐	vuq	2123
 蕉	quc	2121
 喙	hfk	2114
@@ -4285,6 +4180,7 @@ encoder:
 梢	svm	1924
 徇	xrx	1922
 荪	sgc	1922
+疹	vob	1914
 韫	yrw	1912
 町	det	1912
 黢	qhh	1907
@@ -4299,6 +4195,7 @@ encoder:
 懋	mvx	1870
 鹗	ein	1868
 诘	jby	1866
+镭	lrj	1854
 铄	upj	1850
 庾	ysg	1850
 嫒	aon	1829
@@ -4335,6 +4232,7 @@ encoder:
 腓	fro	1737
 砝	fmu	1734
 秆	goh	1730
+荏	roc	1725
 邝	kee	1723
 斛	hlj	1720
 暨	jto	1716
@@ -4381,7 +4279,7 @@ encoder:
 蹶	jiz	1560
 偻	lar	1557
 轱	gai	1556
-乐	edp	1554
+越	ed	1554
 泵	bfu	1553
 擀	gof	1549
 绻	qss	1547
@@ -4405,6 +4303,7 @@ encoder:
 蜚	fii	1457
 呱	ggk	1455
 蹉	csz	1454
+栉	vtm	1454
 铤	twj	1454
 醍	tby	1453
 宕	ddb	1452
@@ -4498,12 +4397,14 @@ encoder:
 悱	fjx	1249
 茕	qkc	1249
 妲	dun	1246
+沨	fcd	1244
 靛	daq	1237
 诓	kwy	1236
 颌	gey	1235
 忝	tpt	1235
 璠	fkw	1232
 珥	euw	1225
+菅	jrc	1222
 亟	qta	1220
 异	etc	1211
 岬	jnu	1210
@@ -4521,6 +4422,7 @@ encoder:
 槚	jnm	1176
 旻	mco	1174
 堇	jxt	1169
+湟	hbd	1167
 瑭	tww	1166
 踅	xiz	1165
 芨	jjc	1164
@@ -4646,6 +4548,7 @@ encoder:
 纛	dvd	894
 畲	urr	890
 睇	dto	889
+醮	jly	886
 虢	glh	885
 癣	xsb	885
 余	emr	883
@@ -4707,6 +4610,7 @@ encoder:
 澧	lgd	768
 扬	ewf	766
 怼	dfx	765
+镞	zlj	765
 嬗	ujn	764
 貔	pbv	764
 野	ell	762
@@ -4755,13 +4659,16 @@ encoder:
 鄯	uje	683
 演	eod	682
 鲇	nvy	681
+酽	yjy	681
 妁	upn	677
 垩	eit	676
+蠃	lld	675
 枇	pbm	674
 锆	gvj	674
 鄞	yce	673
 乩	jjg	672
 珲	htw	668
+珲	hfw	668
 鹳	gcn	661
 鼋	yom	657
 印	eve	656
@@ -4800,6 +4707,7 @@ encoder:
 莴	wpc	601
 禳	rwu	600
 缌	sjs	597
+鹬	yfn	596
 狯	kfq	590
 轧	gui	590
 焐	whh	589
@@ -4883,9 +4791,11 @@ encoder:
 俳	pdr	515
 铱	yjj	515
 艏	uzv	514
+喈	jkk	512
 薮	szc	509
 嗄	uik	509
 龈	yci	507
+笄	jjv	506
 缗	mcs	503
 蕤	rwc	503
 蹁	pvz	503
@@ -4893,6 +4803,7 @@ encoder:
 贏	ynb	501
 璁	ckw	500
 掾	ycf	500
+秫	ulh	500
 祆	xru	499
 醪	liy	498
 豉	igd	498
@@ -4951,7 +4862,9 @@ encoder:
 泚	cgd	435
 痱	ffb	434
 殳	uaj	432
+憷	ihx	432
 纡	yhs	431
+翮	hey	429
 育	epo	428
 育	efo	428
 咬	exk	428
@@ -4974,6 +4887,7 @@ encoder:
 阆	ldm	410
 苫	ujc	410
 谝	ppy	408
+蠲	jdy	408
 瓠	hhg	406
 嬛	hon	405
 麸	fam	405
@@ -5001,6 +4915,7 @@ encoder:
 莳	ubc	389
 碇	dwu	387
 钡	bfj	386
+蟮	uji	385
 萘	noc	385
 凼	ddk	385
 飧	sgu	384
@@ -5008,6 +4923,7 @@ encoder:
 疟	yvb	384
 俣	ysr	383
 碓	dfu	382
+刿	gfd	381
 龁	hei	380
 孓	jia	380
 蕖	qmc	379
@@ -5046,6 +4962,7 @@ encoder:
 蘼	mbc	337
 蕈	xrc	337
 襦	rly	336
+膈	geo	335
 畈	fjt	334
 芏	dhc	334
 笊	vvv	334
@@ -5067,6 +4984,7 @@ encoder:
 仰	epr	319
 裣	lpy	318
 枳	vgm	318
+酯	vgy	317
 髫	tui	317
 暾	tgo	316
 芾	ffc	312
@@ -5150,6 +5068,7 @@ encoder:
 燹	xph	254
 缫	sqs	253
 銎	qkj	252
+翀	iky	252
 嗉	shk	248
 殂	cld	248
 铘	yej	248
@@ -5227,6 +5146,7 @@ encoder:
 阇	uem	206
 廨	xqg	206
 盈	enm	205
+舻	llv	204
 郛	fle	203
 彖	tca	203
 液	eid	203
@@ -5365,9 +5285,9 @@ encoder:
 页	eib	138
 浴	efd	138
 爨	cch	137
+伋	jbr	137
 萩	qzc	137
 狃	nzq	137
-蕞	zfc	136
 畎	qst	136
 樱	eem	136
 脬	pqo	135
@@ -5425,6 +5345,7 @@ encoder:
 圹	ket	114
 焜	kgh	114
 骶	dgg	114
+畛	vot	113
 侗	tnr	112
 晡	bao	112
 绨	tts	111
@@ -5441,6 +5362,7 @@ encoder:
 铍	pjj	109
 弢	tqg	108
 胗	veo	108
+裥	jpy	108
 垱	ddt	108
 瘘	lrb	108
 痒	epb	108
@@ -5479,6 +5401,7 @@ encoder:
 纩	kes	99
 郇	xfe	99
 唪	fyk	99
+鲳	iuy	98
 屦	jfu	98
 鳊	bry	98
 铊	tlj	97
@@ -5805,6 +5728,7 @@ encoder:
 仫	mhr	27
 逾	emz	27
 蹅	imz	27
+裈	kgy	27
 蹐	jbz	27
 朏	fjo	26
 跐	cjz	26
@@ -5898,10 +5822,12 @@ encoder:
 筦	gsv	18
 缊	yrs	18
 瘅	djb	18
+疰	vhb	18
 坉	tft	18
 曜	evo	17
 蜒	eki	17
 挦	xvf	17
+暕	jpo	17
 耢	lvl	17
 铌	nbj	17
 屹	etu	17
@@ -6139,9 +6065,11 @@ encoder:
 羱	yoy	4
 笯	nlv	4
 鼒	zjc	4
+矼	guu	4
 玓	dtw	4
 煃	kvh	4
 陑	eke	4
+鲉	yay	3
 韫	erw	3
 瑗	ecw	3
 叚	jny	3
@@ -6195,6 +6123,7 @@ encoder:
 嶍	xbu	2
 鄅	yse	2
 虷	gni	2
+瘀	ehb	2
 滆	ged	2
 琟	wrw	2
 涍	xld	2
@@ -6235,6 +6164,7 @@ encoder:
 橑	lum	1
 滫	xzd	1
 欤	emq	1
+氿	gvd	1
 鼋	eom	1
 舥	plv	1
 梣	ism	1
@@ -6329,6 +6259,7 @@ encoder:
 螥	cui	0
 𧤎	xdj	0
 槾	mkm	0
+珳	wsw	0
 𤗫	lbp	0
 䋴	nos	0
 㓑	xwd	0
@@ -6356,6 +6287,7 @@ encoder:
 䊲	ios	0
 𢬿	xqf	0
 𦔰	xhe	0
+輑	yxi	0
 𥌛	lbo	0
 氣	qtq	0
 𩷖	bhy	0
@@ -6429,7 +6361,8 @@ encoder:
 玏	liw	0
 𦈸	eff	0
 蟘	tii	0
-𡆱	now	0
+𧴕	blv	0
+𡆱	nok	0
 𩂧	yhy	0
 𨘲	hfz	0
 𡡈	bcn	0
@@ -6444,6 +6377,7 @@ encoder:
 樷	cjl	0
 𨄕	zlz	0
 𨥧	fjj	0
+紖	vos	0
 𨴺	msm	0
 䑥	siv	0
 𩉼	ueg	0
@@ -6463,6 +6397,7 @@ encoder:
 硃	vau	0
 㾠	kbb	0
 楉	rpm	0
+掜	ngf	0
 秄	zth	0
 𠺘	ldk	0
 兦	wwr	0
@@ -6476,6 +6411,7 @@ encoder:
 鮧	tgy	0
 𨕚	haz	0
 𩉸	jfg	0
+礆	jpu	0
 揢	kef	0
 勜	ypl	0
 𩝝	gqu	0
@@ -6591,6 +6527,7 @@ encoder:
 麌	wll	0
 仯	ivr	0
 𤶴	ueb	0
+䉅	vtv	0
 䳀	dsn	0
 𠧙	uvb	0
 䳋	tjn	0
@@ -6610,6 +6547,7 @@ encoder:
 𧼒	qxz	0
 鬊	uri	0
 𪃄	sbn	0
+鎐	eij	0
 𥻇	xam	0
 嫀	qcn	0
 𩚖	nou	0
@@ -6650,6 +6588,7 @@ encoder:
 𤷅	eub	0
 𠏚	efr	0
 𬉼	ozh	0
+𪋮	yfl	0
 薣	gmc	0
 𩢵	tsm	0
 窡	vlx	0
@@ -6666,6 +6605,7 @@ encoder:
 㪠	qrw	0
 䕟	xec	0
 㘙	ykk	0
+奼	iin	0
 𬘭	lcs	0
 𧎾	ldi	0
 睰	mio	0
@@ -6706,6 +6646,7 @@ encoder:
 𧱒	vsu	0
 𢷍	yvf	0
 𢙅	xbx	0
+𪂴	jen	0
 栍	ucm	0
 蓷	ttc	0
 𤴥	jzb	0
@@ -6721,7 +6662,7 @@ encoder:
 㸽	bfn	0
 𠡤	kil	0
 鋧	xaj	0
-𩒷	rny	0
+𩒷	rn	0
 䇩	etv	0
 耭	jjl	0
 嫟	ntn	0
@@ -6868,9 +6809,9 @@ encoder:
 㙷	vet	0
 𦋉	bes	0
 儧	zor	0
+霤	loy	0
 𡍫	cit	0
 𥭋	jtv	0
-礝	rsu	0
 䲦	don	0
 鷤	tkn	0
 𩨫	kog	0
@@ -6899,7 +6840,6 @@ encoder:
 冚	kob	0
 𤝉	ylq	0
 皒	eeb	0
-𡇂	ehw	0
 䡗	gyi	0
 𩍅	tjg	0
 刞	qfd	0
@@ -6948,7 +6888,7 @@ encoder:
 弎	sny	0
 蜛	jhi	0
 勜	wyl	0
-𡈙	eaw	0
+𡈙	eak	0
 晵	qgo	0
 𨑹	ckz	0
 搚	xaf	0
@@ -7015,6 +6955,7 @@ encoder:
 勭	dyl	0
 𣢌	tnq	0
 𣩽	rpd	0
+戼	mxa	0
 妚	fzn	0
 睈	iyo	0
 𡱊	uvu	0
@@ -7025,17 +6966,18 @@ encoder:
 缹	fzd	0
 䛳	yny	0
 㝚	ekb	0
+𦸂	uec	0
 勡	pll	0
 彄	kxg	0
 𩘘	qof	0
 𨁄	hjz	0
+缾	pnf	0
 陙	ife	0
 𠘪	ugj	0
 𤡆	zyq	0
 㝑	mwb	0
 𨆽	mez	0
 𤙏	qfn	0
-𡆩	yqw	0
 𠢪	pkl	0
 𤣎	eeq	0
 𪗴	rni	0
@@ -7089,11 +7031,12 @@ encoder:
 𤣎	yeq	0
 𨌶	kci	0
 𦡴	vzo	0
-𡇒	mbw	0
+𡇒	mbk	0
 𥕏	kpu	0
 𣤨	hpq	0
 𪐂	qsu	0
 棎	ikm	0
+摿	yhf	0
 虙	flh	0
 𪈴	jin	0
 呎	igk	0
@@ -7125,7 +7068,6 @@ encoder:
 鑨	ljj	0
 𩺱	nty	0
 𣩀	brd	0
-𩊀	pgg	0
 妱	vqn	0
 叢	cjy	0
 𪏢	gkh	0
@@ -7246,6 +7188,7 @@ encoder:
 𥿨	mns	0
 𦜒	foo	0
 敚	dlw	0
+閏	rrm	0
 㾿	lwb	0
 𪉦	jal	0
 𣙷	mwm	0
@@ -7293,7 +7236,7 @@ encoder:
 奟	bcd	0
 䰭	nrg	0
 欶	upq	0
-𡈴	rmw	0
+𡈴	rmk	0
 𧿫	krz	0
 苶	nsc	0
 䇸	tev	0
@@ -7304,7 +7247,7 @@ encoder:
 䏆	cie	0
 惵	dsx	0
 𠷃	uqk	0
-𡈦	rxw	0
+𡈦	rxk	0
 僼	fcr	0
 㙃	but	0
 𤙔	vvn	0
@@ -7559,7 +7502,6 @@ encoder:
 𪖌	llu	0
 掫	zxf	0
 𢈾	cxg	0
-𡆩	eqw	0
 耝	ill	0
 鞖	stg	0
 㦓	xax	0
@@ -7625,6 +7567,7 @@ encoder:
 𨰞	mej	0
 𡯽	giw	0
 𬟽	dki	0
+𢔠	qtx	0
 溰	add	0
 𨝆	gre	0
 㝎	dwb	0
@@ -7689,7 +7632,6 @@ encoder:
 𩔷	muy	0
 鼟	tcg	0
 䌝	jhs	0
-𤫉	xqw	0
 鏅	xzj	0
 𦔦	kfl	0
 𧆏	moc	0
@@ -7721,6 +7663,7 @@ encoder:
 𩙡	hxf	0
 䴜	wbl	0
 檓	hvm	0
+詆	dgy	0
 𠧟	nuy	0
 𥞼	xzh	0
 䔻	dgc	0
@@ -7741,6 +7684,7 @@ encoder:
 𢠛	kpx	0
 䰊	bei	0
 𤵭	ylb	0
+羐	yza	0
 𧹭	xfi	0
 𠿟	wgk	0
 糴	dbm	0
@@ -7772,6 +7716,7 @@ encoder:
 歕	poq	0
 䜈	vqy	0
 䢳	jge	0
+𨥨	mij	0
 𪓄	ikh	0
 㬸	tmo	0
 貚	tkv	0
@@ -7804,6 +7749,7 @@ encoder:
 蔖	cm	0
 綎	tes	0
 㒚	yvr	0
+𩋽	eeg	0
 㫘	mto	0
 槯	zvm	0
 㐆	yxp	0
@@ -7836,6 +7782,8 @@ encoder:
 𢅠	eoj	0
 𠾨	kuk	0
 𠮿	snk	0
+挕	dsf	0
+扜	waf	0
 抭	yxf	0
 鑁	zkj	0
 斴	lcj	0
@@ -8101,8 +8049,9 @@ encoder:
 垽	evt	0
 抾	qhf	0
 㸯	krn	0
-𡈵	yaw	0
+𡈵	yak	0
 䵉	tam	0
+𤌐	hjh	0
 嘊	adk	0
 𥶈	zxv	0
 嘫	rkk	0
@@ -8195,6 +8144,7 @@ encoder:
 𥳚	rkv	0
 𨢿	dny	0
 𠬋	nvl	0
+𠚄	lgk	0
 𥮖	vbv	0
 麤	cal	0
 嬶	bbn	0
@@ -8203,6 +8153,7 @@ encoder:
 礢	epu	0
 𠿢	xak	0
 跈	taz	0
+啈	zuk	0
 抺	mff	0
 𪈘	hkn	0
 黖	xth	0
@@ -8270,6 +8221,7 @@ encoder:
 𧍨	sui	0
 𣀫	sng	0
 脧	jdo	0
+閈	hjm	0
 郒	lwl	0
 貛	hdv	0
 𡐞	bkt	0
@@ -8363,6 +8315,7 @@ encoder:
 狤	jbq	0
 𪋬	esl	0
 焻	gsh	0
+䠥	bsz	0
 䣋	cue	0
 𩸃	thy	0
 葾	edc	0
@@ -8404,6 +8357,7 @@ encoder:
 砊	kdu	0
 䪄	hbg	0
 𢃍	bij	0
+𨍊	qzi	0
 䁸	nwo	0
 𢕑	ufx	0
 𤞶	hjq	0
@@ -8439,6 +8393,7 @@ encoder:
 茽	vyc	0
 栆	zxa	0
 㞲	eyu	0
+𡴅	vac	0
 𠧪	ezb	0
 蹱	vkz	0
 黊	hgh	0
@@ -8519,7 +8474,7 @@ encoder:
 甧	ueo	0
 喪	sut	0
 𠒸	rxx	0
-𡇿	wnw	0
+𡇿	wnk	0
 𦶚	foc	0
 𢓝	tmx	0
 𪔟	jdg	0
@@ -8598,8 +8553,10 @@ encoder:
 媰	iln	0
 𢷾	cif	0
 𩳤	iug	0
+垇	avt	0
 㧉	hof	0
 㓴	rsd	0
+澊	cfd	0
 綼	bts	0
 輫	pdi	0
 𡱜	vvu	0
@@ -8622,6 +8579,7 @@ encoder:
 𨜍	qle	0
 圥	lht	0
 螪	uui	0
+餿	sxu	0
 嘊	ydk	0
 𧯾	dkv	0
 瓺	iww	0
@@ -8733,7 +8691,6 @@ encoder:
 諰	aby	0
 㕂	qci	0
 𣢪	gvq	0
-𠵸	mbk	0
 䈋	tiv	0
 𡯐	xzw	0
 𣢜	ezq	0
@@ -8752,6 +8709,7 @@ encoder:
 𣢡	ucq	0
 佅	mor	0
 𤠚	shq	0
+椄	jkm	0
 懬	kex	0
 姪	vbn	0
 瘔	khb	0
@@ -8775,6 +8733,7 @@ encoder:
 㝝	lcb	0
 槀	kvm	0
 𨻲	xxe	0
+䋭	yfs	0
 𠰹	tsk	0
 俿	hmr	0
 𡓦	vjt	0
@@ -8785,6 +8744,7 @@ encoder:
 𩬑	dri	0
 𣚩	itm	0
 𤛙	dwa	0
+㘤	wnw	0
 箹	evv	0
 𤾛	mlb	0
 勂	gvl	0
@@ -8811,6 +8771,7 @@ encoder:
 㒖	ozr	0
 狧	tiq	0
 㐼	ifr	0
+𡇮	qok	0
 嬁	dcn	0
 邒	tne	0
 兟	uex	0
@@ -8916,7 +8877,6 @@ encoder:
 𥄜	qto	0
 罜	vms	0
 寀	cob	0
-𡇬	guw	0
 𧮽	qag	0
 砊	kuu	0
 䐥	wyo	0
@@ -9044,7 +9004,8 @@ encoder:
 㖨	lhk	0
 䴧	wil	0
 𢫲	qxf	0
-𡇚	ksw	0
+𤭛	guw	0
+𡇚	ksk	0
 脴	pgo	0
 㡏	taj	0
 剾	kxd	0
@@ -9056,6 +9017,7 @@ encoder:
 㱧	esd	0
 𦓎	noe	0
 㹞	yuq	0
+㹑	stn	0
 垳	hwt	0
 秌	qzh	0
 長	iwa	0
@@ -9070,7 +9032,6 @@ encoder:
 啽	akk	0
 𣅝	tao	0
 綟	lqs	0
-𡈉	qdw	0
 䡰	kyi	0
 䠑	wjz	0
 𦈠	exs	0
@@ -9100,6 +9061,7 @@ encoder:
 龖	dul	0
 鳬	fmn	0
 筁	qhv	0
+鬉	zki	0
 䀱	fco	0
 硥	mpu	0
 鎾	wej	0
@@ -9148,6 +9110,7 @@ encoder:
 錑	lfj	0
 鷔	avn	0
 𩕹	cuy	0
+魹	mey	0
 踜	lfz	0
 稘	qbh	0
 㝧	woa	0
@@ -9202,6 +9165,7 @@ encoder:
 犅	gun	0
 𨏺	vxq	0
 𪊜	bol	0
+牃	dsp	0
 𡄑	jrk	0
 𦇖	pcs	0
 䠹	adu	0
@@ -9253,7 +9217,6 @@ encoder:
 𥯕	ddv	0
 㗢	hyk	0
 𧹈	rfb	0
-𡈎	waw	0
 𧑑	byi	0
 𢋡	lmg	0
 㗕	gxk	0
@@ -9270,6 +9233,7 @@ encoder:
 𨾰	qcv	0
 𩊫	npg	0
 墘	qvt	0
+㝼	ehw	0
 𣤩	itq	0
 弬	ebg	0
 偍	tbr	0
@@ -9477,6 +9441,7 @@ encoder:
 𦩲	ezv	0
 丳	ioa	0
 𡕢	mow	0
+𩌃	hsg	0
 𤫞	tvw	0
 㜻	lan	0
 榥	hum	0
@@ -9508,6 +9473,7 @@ encoder:
 𧊘	khi	0
 㗎	jxk	0
 䣕	mme	0
+嶸	rju	0
 𩠃	jcu	0
 脽	uwo	0
 𥦅	irx	0
@@ -9534,6 +9500,7 @@ encoder:
 𨒲	mbz	0
 蚞	mhi	0
 穘	rvh	0
+𠛆	waw	0
 飛	fif	0
 㤊	xlx	0
 𡏭	jmt	0
@@ -9567,6 +9534,7 @@ encoder:
 堺	jqt	0
 繞	rvs	0
 廈	xxg	0
+藵	bxc	0
 𥁠	qoh	0
 笐	guv	0
 赱	zzt	0
@@ -9587,7 +9555,6 @@ encoder:
 䢦	ufz	0
 㝵	dec	0
 砏	phu	0
-𢒉	uop	0
 忛	fkx	0
 貒	tdv	0
 鲓	kxy	0
@@ -9619,6 +9586,7 @@ encoder:
 樰	xom	0
 榦	gjm	0
 𡨄	xxb	0
+𤤧	eaw	0
 憹	nwx	0
 躤	jqz	0
 𤝛	tlq	0
@@ -9629,7 +9597,6 @@ encoder:
 㱌	iiq	0
 𥌊	pjx	0
 𨒙	tsz	0
-𡆥	jow	0
 疕	bgb	0
 𤜘	mkn	0
 璭	grw	0
@@ -9772,6 +9739,7 @@ encoder:
 䣓	lbe	0
 𤮐	zgw	0
 㱖	cfv	0
+𡈞	wmk	0
 挐	nuu	0
 㰴	pzq	0
 𪒋	pkh	0
@@ -9814,6 +9782,7 @@ encoder:
 瓾	myw	0
 𤘠	tan	0
 㧁	qfh	0
+𤤧	yaw	0
 𡁨	dfk	0
 䑫	bcv	0
 𨝓	pue	0
@@ -9945,6 +9914,7 @@ encoder:
 魗	izg	0
 㜐	uhn	0
 𪑟	cth	0
+𠐌	bgr	0
 𢮛	ucf	0
 𧉁	xti	0
 埐	jht	0
@@ -10023,6 +9993,7 @@ encoder:
 䨜	bcy	0
 𤉦	wph	0
 鴾	man	0
+覶	lsj	0
 巭	gaf	0
 䯧	qww	0
 㦀	ffx	0
@@ -10069,6 +10040,7 @@ encoder:
 猵	brq	0
 眰	dqo	0
 䁓	zno	0
+昖	yko	0
 簥	jmv	0
 䧢	oxe	0
 𪇭	con	0
@@ -10113,6 +10085,7 @@ encoder:
 𡵗	ziu	0
 𦶀	wac	0
 𦌦	hcs	0
+𤺐	nqb	0
 絓	ggs	0
 𩙒	pmf	0
 穅	kuh	0
@@ -10124,6 +10097,7 @@ encoder:
 𠟅	rti	0
 𡑄	vpt	0
 搘	vjf	0
+炮	bqh	0
 䬀	ezf	0
 㾻	ilb	0
 𢨒	itg	0
@@ -10328,8 +10302,6 @@ encoder:
 㼲	lqw	0
 𠅹	vdt	0
 㧗	zgf	0
-㕱	yak	0
-啳	qok	0
 𤆴	hwh	0
 𪊂	hfl	0
 䆓	rsx	0
@@ -10407,6 +10379,7 @@ encoder:
 𥀫	nap	0
 𩎕	smw	0
 巠	xna	0
+𩠈	rou	0
 𩿢	tzn	0
 𣢴	kcq	0
 瞔	zeo	0
@@ -10642,6 +10615,7 @@ encoder:
 髺	ggi	0
 𢑖	zxx	0
 瘒	wsb	0
+𪕈	mbu	0
 鸋	nnn	0
 侺	uor	0
 怽	mbx	0
@@ -10652,6 +10626,7 @@ encoder:
 揘	hbf	0
 鶣	bpn	0
 𠝿	sls	0
+㝮	cfb	0
 䍕	dgs	0
 𢆦	jah	0
 𩎘	piw	0
@@ -10767,7 +10742,6 @@ encoder:
 㘇	rjk	0
 𤭢	cfw	0
 嘺	quk	0
-𡇸	ggw	0
 𤁱	cod	0
 𩌡	jug	0
 㘢	wyw	0
@@ -10796,6 +10770,7 @@ encoder:
 犭	qsq	0
 䀖	tro	0
 𤡐	ciq	0
+焂	uah	0
 𥀛	zqp	0
 㢣	jwc	0
 㥯	yxv	0
@@ -10829,6 +10804,7 @@ encoder:
 丆	hoa	0
 𤊻	fxh	0
 埥	qet	0
+嬈	rin	0
 㑱	rxr	0
 㙘	yqt	0
 𨻵	cte	0
@@ -10906,7 +10882,6 @@ encoder:
 𢜭	jgx	0
 那	nfe	0
 䢚	gcz	0
-𪉯	kjl	0
 𨇯	uwz	0
 𨲯	zci	0
 𥷁	bjv	0
@@ -10972,7 +10947,7 @@ encoder:
 𤙅	bon	0
 詌	gjy	0
 𤖿	ptp	0
-𡈗	mgw	0
+𡈗	mgk	0
 禉	ezu	0
 掃	svf	0
 𡚈	wrp	0
@@ -11032,7 +11007,6 @@ encoder:
 鵼	kkn	0
 扚	yuf	0
 𢜲	nux	0
-𡆣	dbw	0
 椗	dwm	0
 㺑	uoq	0
 𠬈	bgq	0
@@ -11168,6 +11142,7 @@ encoder:
 墽	qlt	0
 㯡	pvq	0
 扚	dbf	0
+糭	zym	0
 竗	mll	0
 䤚	lgl	0
 䗱	phi	0
@@ -11268,7 +11243,7 @@ encoder:
 𢳆	aif	0
 䴣	hal	0
 𤖬	qsp	0
-𡆮	cow	0
+𡆮	cok	0
 鎒	nrj	0
 鞪	mag	0
 𦵿	pxc	0
@@ -11291,12 +11266,14 @@ encoder:
 鮹	uqy	0
 㕫	fck	0
 煆	elh	0
+壍	qat	0
 鼜	cvg	0
 皏	pyb	0
 𤜾	jgq	0
 鈶	cbj	0
 𤝓	tqq	0
 䐧	kvo	0
+鱦	ewp	0
 錊	zaj	0
 𨜽	ebe	0
 𧀘	kcc	0
@@ -11314,6 +11291,7 @@ encoder:
 奣	wyy	0
 𤵮	kwb	0
 犮	bua	0
+擻	szf	0
 倗	pyr	0
 䎧	pal	0
 㞛	jgu	0
@@ -11348,9 +11326,9 @@ encoder:
 𨰦	bxj	0
 縍	bds	0
 𩯑	sni	0
-𧠓	mgk	0
 筎	rlv	0
 乛	vea	0
+𥘦	jow	0
 𠆙	dqt	0
 聎	tme	0
 獽	rwq	0
@@ -11438,11 +11416,12 @@ encoder:
 䇬	iuv	0
 攱	gfl	0
 𦪚	zrv	0
+琷	qdw	0
 鎜	pkj	0
 㚽	qln	0
 𠵧	vsk	0
 攵	pap	0
-𡇵	ddw	0
+㿮	edp	0
 𥻑	ozm	0
 㧍	bcf	0
 𧦟	fny	0
@@ -11451,11 +11430,11 @@ encoder:
 䚼	nfy	0
 夛	dsa	0
 阠	xve	0
+價	jkr	0
 䜱	mog	0
 㹹	gcq	0
 䃬	kvu	0
 𢇟	hwg	0
-噆	cok	0
 䇔	npl	0
 簳	gjv	0
 𡨽	uyb	0
@@ -11508,7 +11487,6 @@ encoder:
 濋	imd	0
 莂	bsc	0
 䪉	lqg	0
-𡆸	rtw	0
 䅳	zxh	0
 伕	far	0
 𡞯	kmn	0
@@ -11524,6 +11502,7 @@ encoder:
 聬	wye	0
 垙	gwt	0
 䎻	vre	0
+瑒	ddw	0
 䄐	qcs	0
 鑹	ccj	0
 㺦	lvq	0
@@ -11565,6 +11544,7 @@ encoder:
 𨩧	dkj	0
 𦣻	uzh	0
 哪	nek	0
+𥠃	jzh	0
 踁	kcz	0
 𩗫	pbf	0
 𧕴	nki	0
@@ -11666,7 +11646,6 @@ encoder:
 墹	jat	0
 𧎤	sgi	0
 慃	ypx	0
-𠺐	hcl	0
 秿	fhh	0
 𣃝	ypf	0
 𣓀	vox	0
@@ -11737,7 +11716,6 @@ encoder:
 㛗	zsn	0
 𠆩	fjr	0
 𩑝	awy	0
-㕱	eak	0
 嫏	lwn	0
 𤷂	frb	0
 挭	gyf	0
@@ -11752,7 +11730,6 @@ encoder:
 𤢶	qkq	0
 暛	slo	0
 尀	pic	0
-咓	wmk	0
 圅	hks	0
 𧈄	xxh	0
 㾁	uhb	0
@@ -11763,7 +11740,6 @@ encoder:
 大	doa	0
 扌	uza	0
 𩯆	nvi	0
-𡇝	syw	0
 䳞	byn	0
 𩰟	fed	0
 𥤨	nlx	0
@@ -11971,6 +11947,7 @@ encoder:
 𨻻	lae	0
 愢	sgx	0
 𥈿	hyo	0
+𩼅	rny	0
 𪑹	jqh	0
 袑	uvy	0
 惃	gox	0
@@ -12082,6 +12059,7 @@ encoder:
 帀	zla	0
 𧅮	lgc	0
 徣	jqx	0
+鈣	goj	0
 𥙬	uqu	0
 𦋯	ems	0
 朁	coj	0
@@ -12122,7 +12100,6 @@ encoder:
 癓	wrb	0
 嗕	rhk	0
 穦	phh	0
-𡇰	vsw	0
 𤛏	cmn	0
 𥪯	qul	0
 𠁉	iaa	0
@@ -12148,9 +12125,11 @@ encoder:
 𩮷	dxi	0
 愥	eex	0
 皯	gop	0
+敵	dbw	0
 㿸	mkp	0
 𠆣	vgr	0
 蠰	udi	0
+𤣻	mgw	0
 𤖗	sip	0
 勫	fnl	0
 㡟	zqj	0
@@ -12182,6 +12161,7 @@ encoder:
 𨔥	jrz	0
 薟	kjc	0
 㕫	fpk	0
+𡒒	ult	0
 𨽉	ume	0
 𣂤	bcj	0
 髈	bpg	0
@@ -12210,7 +12190,7 @@ encoder:
 㣽	nhx	0
 𥴻	qev	0
 𦄓	dxs	0
-𡇧	txw	0
+𡇧	txk	0
 嫨	hnn	0
 靻	zmg	0
 𡘪	mud	0
@@ -12505,6 +12485,7 @@ Bilibili	bv
 所有	se
 时候	sh
 算了	scl
+什么了	sml
 时间	sj
 虽然	sr
 所有	sy
@@ -12514,6 +12495,7 @@ Bilibili	bv
 头像	tx
 是什么	u
 是不是	ubu
+审批	uop
 时候	uh
 时间	uj
 是啥	uu
@@ -12541,6 +12523,7 @@ Bilibili	bv
 习惯	xg
 喜欢	xh
 羡慕	xm
+兴趣	xq
 笑死	xs
 选项	xx
 选择	xz
@@ -12811,6 +12794,7 @@ Bilibili	bv
 拜	bdf	1
 拜	bof	1
 邓	dfy	1
+淡	djdh	1
 朵	dljm	1
 有	e	1000
 焰	ejhx	1
@@ -12851,3 +12835,6 @@ Bilibili	bv
 琴	qcj	1
 臭	irq	1
 湖	hldo	1
+累	lfts	1
+泳	endu	1
+泳	yndu	2
