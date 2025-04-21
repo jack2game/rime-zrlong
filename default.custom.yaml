@@ -14,5 +14,5 @@ patch:
   "menu/page_size": 5
   schema_list:
     - {schema: zrlong}
-    - {schema: zrlong_dynamic}
+    - {schema: zrlong_dynamical}
     - {schema: zrlong_sentence}
