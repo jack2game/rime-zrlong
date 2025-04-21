@@ -41,7 +41,6 @@ engine:
     - ascii_segmentor
     - matcher
     - affix_segmentor@zkci
-    - affix_segmentor@ja
     - abc_segmentor
     - punct_segmentor
     - fallback_segmentor
@@ -56,7 +55,6 @@ engine:
     - table_translator@fixed
     - table_translator@zkci
     - table_translator@zrlong_full
-    - script_translator@ja
     - history_translator@repeat
     - lua_translator@*moran_shijian # 日期orq 節氣ojq 星期oxq 時間osj
     - lua_translator@*moran_number # 數字轉大寫
@@ -194,7 +192,6 @@ recognizer:
     reverse_tiger: "(^`$)|(^`[a-zA-Z]+$)"
     reverse_stroke: "^obh[A-Za-z]*$"
     reverse_zrlf: "^olf[A-Za-z]*$"
-    ja: "^oja[A-Za-z]*$"
     punct: "^/([0-9]0?|[A-Za-z]+)$"
 
 menu:
