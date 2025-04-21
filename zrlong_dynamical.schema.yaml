@@ -7,7 +7,7 @@ schema:
   author:
     - 自然碼發明人：周志農
     - 方案製作：晡时之光
-    - modded by 小幽幽
+    - modded by Eflare
   description: |
     乱序韵母，自然辅，1-3码静态，4码动态。
   dependencies:
@@ -16,7 +16,6 @@ schema:
     - stroke
     - moran_reverse
     - zrlong_fixed
-    - jaroomaji # 日语
 switches:
   - name: ascii_mode
     states: [中文, 西文]
@@ -144,19 +143,6 @@ reverse_zrlf:
   enable_completion: true
   tips: 〔两分〕
   __include: reverse_format
-ja: #japanese 引导输入
-  tag: ja
-  dictionary: jaroomaji
-  prefix: "oja"
-  enable_completion: true
-  enable_sentence: true
-  enable_user_dict: true
-  initial_quality: 0
-  enable_encoder: false
-  encode_commit_history: false
-  tips: 〔日语〕
-  preedit_format:
-    - xform/.*//
 zkci: # 造詞
   tag: zkci
   db_class: tabledb
