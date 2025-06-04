@@ -4,7 +4,7 @@
 # author: 晡时之光 -> modded by Elflare
 ---
 name: zrlong_fixed
-version: "2025-05-02 18:16:00"
+version: "2025-06-04 19:09:21"
 sort: by_weight
 columns:
   - text
@@ -347,7 +347,6 @@ encoder:
 书	ua	1083351
 微	wi	1082510
 步	bhv	1077549
-喜	xg	1069981
 够	gr	1068470
 影	yw	1067165
 冷	ly	1063226
@@ -1061,7 +1060,7 @@ encoder:
 丹	dnp	255714
 舒	uau	255489
 蛋	dji	255478
-洗	xgd	255469
+洗	xg	255469
 哼	hck	255327
 宋	syb	255294
 妇	fhn	254489
@@ -1689,6 +1688,7 @@ encoder:
 肚	dho	107224
 桃	tim	107204
 豆	dra	107185
+喜	xgk	106998
 斗	dzd	106809
 径	jwx	106709
 疲	pbb	106623
@@ -1979,7 +1979,7 @@ encoder:
 寿	urc	73701
 驱	qhm	73684
 猴	haq	73614
-毅	ytl	73576
+毅	ytu	73576
 舅	joj	73540
 铜	tjj	73454
 娟	jdn	73343
@@ -2139,7 +2139,6 @@ encoder:
 税	ufh	61205
 笼	ljv	61127
 枯	kam	61044
-帘	lvb	60741
 糖	twm	60725
 愉	ymx	60639
 骄	jmm	60597
@@ -3153,6 +3152,7 @@ encoder:
 攘	rpf	14580
 攥	zcf	14543
 汰	tod	14511
+熏	xgh	14450
 坊	fut	14446
 坊	fwt	14446
 芭	blc	14409
@@ -3454,7 +3454,7 @@ encoder:
 切	qqd	9005
 隧	sfe	9003
 窿	ljx	9002
-熏	xrd	9002
+熏	xrh	9002
 骋	iym	8977
 嫦	iwn	8971
 瓢	pug	8967
@@ -3467,6 +3467,7 @@ encoder:
 烙	lvh	8910
 猥	wjq	8898
 篝	gxv	8896
+殉	xrd	8878
 蜒	yki	8877
 枷	jdm	8877
 皎	jlb	8869
@@ -3487,7 +3488,6 @@ encoder:
 瘩	dub	8673
 瘩	dlb	8673
 阿	ale	8672
-屹	ytu	8644
 搁	gef	8641
 侥	yir	8631
 侥	jlr	8631
@@ -3741,6 +3741,7 @@ encoder:
 磐	pku	5916
 蹬	dfz	5912
 斓	lkw	5911
+翊	ytl	5899
 琰	yow	5886
 叁	sns	5883
 佗	tlr	5875
@@ -4010,6 +4011,7 @@ encoder:
 硅	gtu	2811
 玳	dow	2810
 睾	gqp	2807
+赁	lvb	2805
 瑁	mvw	2802
 遛	loz	2801
 由	ea	2801
@@ -4382,7 +4384,6 @@ encoder:
 鼹	you	1331
 懔	lxx	1326
 鞅	ydg	1324
-鹘	gmg	1318
 咩	mkk	1318
 誊	tfj	1318
 宕	tjb	1313
@@ -5282,7 +5283,7 @@ encoder:
 垴	nxt	148
 辊	goi	148
 虮	jgi	147
-毅	etl	147
+毅	etu	147
 佣	eyr	147
 佣	ekr	147
 绱	uds	147
@@ -5406,6 +5407,7 @@ encoder:
 髌	bvg	106
 伲	ntr	105
 蛏	ici	105
+嘏	gmg	104
 悝	lgx	104
 嘏	jng	104
 忉	dqx	104
@@ -5878,7 +5880,6 @@ encoder:
 耢	lvl	17
 挦	xvf	17
 淤	ehd	17
-屹	etu	17
 蜒	eki	17
 曜	evo	17
 蝓	emi	17
@@ -5965,6 +5966,7 @@ encoder:
 椰	erm	11
 秧	euh	11
 掖	erf	11
+翊	etl	11
 隅	eme	11
 琰	eow	11
 瀼	rdd	11
@@ -7949,7 +7951,6 @@ encoder:
 㿷	cqp	0
 𤗁	chp	0
 䯘	hcg	0
-𠢆	xcl	0
 𧩪	cyy	0
 囜	nck	0
 䈵	wcv	0
@@ -8174,7 +8175,6 @@ encoder:
 𢔊	ibx	0
 㡷	boy	0
 𡄣	mbk	0
-紴	bts	0
 䲽	ubn	0
 𨰦	bxj	0
 𠫛	bus	0
@@ -8694,7 +8694,6 @@ encoder:
 濭	aud	0
 赳	jzz	0
 堁	kit	0
-䵫	xgh	0
 峺	gyu	0
 粶	lhm	0
 麎	isl	0
@@ -8846,7 +8845,6 @@ encoder:
 迡	ntz	0
 𨾴	gtv	0
 佋	uvr	0
-𤈷	xrh	0
 檨	urm	0
 榓	mtm	0
 㰰	qqq	0
@@ -8977,7 +8975,6 @@ encoder:
 𢙇	ygx	0
 𪄀	pkn	0
 鸗	ljn	0
-燘	mjh	0
 𩤖	ijm	0
 𤝍	rtq	0
 䈓	qxv	0
@@ -9173,7 +9170,6 @@ encoder:
 蒁	uhc	0
 㛞	lyn	0
 𠂈	tpp	0
-喺	xgk	0
 𧎳	sli	0
 𩍌	vrg	0
 噰	ykk	0
@@ -9418,6 +9414,7 @@ encoder:
 趇	xtz	0
 𢏃	lgg	0
 狋	qoq	0
+奊	xgd	0
 𡤋	xqn	0
 𢼱	ztk	0
 䪮	izy	0
@@ -12475,6 +12472,7 @@ Bilibili	bv
 便宜	py
 确实	q
 区别	qb
+确定	qd
 起来	ql
 其他	qt
 其实	qu
@@ -12796,6 +12794,7 @@ Bilibili	bv
 案	ajb	1
 拜	bdf	1
 拜	bof	1
+毙	bts	100
 邓	dfy	1
 淡	djdh	1
 朵	dljm	1
@@ -12841,5 +12840,6 @@ Bilibili	bv
 湖	hldo	1
 累	lfts	1
 累	lfa	1
+蓄	xfct	1
 泳	endu	1
 泳	yndu	2
