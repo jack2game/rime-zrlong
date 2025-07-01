@@ -4,7 +4,7 @@
 # author: 晡时之光 -> modded by Elflare
 ---
 name: zrlong_fixed
-version: "2025-06-04 19:09:21"
+version: "2025-07-01 22:17:55"
 sort: by_weight
 columns:
   - text
@@ -1845,7 +1845,7 @@ encoder:
 催	ctr	86151
 彭	pfp	86069
 宠	in	86062
-召	vvd	86060
+召	vvk	86060
 贪	tnb	85988
 辱	rm	85827
 待	dbx	85651
@@ -2432,7 +2432,6 @@ encoder:
 烫	tdh	41461
 狡	jlq	41377
 轨	gvi	41123
-召	uvd	41103
 汹	xpd	41021
 携	xsf	41009
 磊	lju	40900
@@ -2586,7 +2585,6 @@ encoder:
 峡	xcu	33938
 侣	lsr	33933
 芦	llc	33912
-吁	xhk	33753
 蒸	vch	33714
 禄	lhu	33704
 胀	vdo	33681
@@ -2953,6 +2951,7 @@ encoder:
 婕	jsn	19606
 禹	ysp	19590
 啃	kok	19567
+嘘	xhk	19562
 纹	wos	19506
 匀	yfg	19505
 蚂	mmi	19488
@@ -3640,7 +3639,6 @@ encoder:
 篡	ccv	6922
 晤	who	6919
 肇	vvh	6900
-咂	zlk	6899
 帚	vzj	6894
 瘤	lmb	6892
 瞠	ico	6874
@@ -5023,6 +5021,7 @@ encoder:
 垭	yit	304
 锞	kij	304
 簟	dav	301
+匝	zlk	300
 坩	gnt	300
 豺	idv	300
 柞	zpm	299
@@ -5154,6 +5153,7 @@ encoder:
 勰	xsl	215
 鸫	dkn	215
 扃	jph	214
+潲	uvd	214
 笥	stv	214
 皤	peb	214
 鹾	cll	214
@@ -5557,7 +5557,6 @@ encoder:
 骺	hag	64
 肷	qpo	63
 岣	gzu	63
-曌	vvk	63
 鲭	qey	63
 蚁	egi	63
 辒	wei	62
@@ -9065,7 +9064,6 @@ encoder:
 跧	qoz	0
 㹙	wyn	0
 𨦂	luj	0
-㷋	tkh	0
 𪎦	mjm	0
 𥞃	uhh	0
 䟂	mkz	0
@@ -9193,7 +9191,6 @@ encoder:
 𪔣	kkg	0
 𡄖	ywk	0
 羢	rjy	0
-𦦛	xlx	0
 瓱	miw	0
 婗	ngn	0
 𢜼	iyx	0
@@ -10058,7 +10055,6 @@ encoder:
 䍆	vhf	0
 𩯊	lui	0
 𠽲	pkk	0
-㰮	uoq	0
 䛏	ngy	0
 𢜽	kvx	0
 𣓅	qpm	0
@@ -12391,6 +12387,7 @@ Bilibili	bv
 第四	dt
 第五	dt
 都是	du
+都有	de
 等下	dx
 第一	dy
 因为	e	1
@@ -12843,3 +12840,4 @@ Bilibili	bv
 蓄	xfct	1
 泳	endu	1
 泳	yndu	2
+召	vvd	2
