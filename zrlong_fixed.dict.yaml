@@ -4,7 +4,7 @@
 # author: 晡时之光 -> modded by Elflare
 ---
 name: zrlong_fixed
-version: "2025-07-01 22:17:55"
+version: "2025-08-23 21:31:48"
 sort: by_weight
 columns:
   - text
@@ -53,9 +53,10 @@ encoder:
 请	qw	8563750
 下	x	8550882	xx
 字	zt	8506615
+图	tl	8457307
 出	i	8294943	ia
+她	tln	8270163
 时	ub	8207119
-她	tl	7870163
 要	yv	7865159
 放	fd	7730745
 看	kj	7709056
@@ -734,7 +735,6 @@ encoder:
 区	qhk	460807
 班	bnd	459772
 丽	lta	457411
-图	tlk	457307
 己	jga	456925
 岁	sf	456625
 礼	lgu	456545
@@ -2049,7 +2049,6 @@ encoder:
 障	vde	67983
 摊	tnf	67974
 跨	kg	67967
-妥	tln	67901
 揉	raf	67835
 晋	jvo	67736
 寞	mgb	67695
@@ -5080,6 +5079,7 @@ encoder:
 荨	qvc	263
 瞋	ieo	263
 砬	luu	262
+鼍	tlk	262
 岳	edu	262
 跣	xpz	261
 炝	qeh	259
@@ -6250,6 +6250,7 @@ encoder:
 脟	lqo	1
 圲	qrt	1
 瑔	qow	1
+薙	ttc	1
 厞	ffi	0
 𨝭	ffe	0
 焨	ffh	0
@@ -6991,7 +6992,6 @@ encoder:
 𢿚	exw	0
 麙	ekl	0
 𧮬	veg	0
-𪐯	exh	0
 𤟣	enq	0
 𨅅	pez	0
 䢽	xey	0
@@ -8769,7 +8769,6 @@ encoder:
 𥀖	zjp	0
 𨥺	hjj	0
 𠿇	xqk	0
-豃	hog	0
 瑡	ujw	0
 豅	lyg	0
 𧈙	urh	0
@@ -9737,7 +9736,6 @@ encoder:
 梷	jwm	0
 𤿧	hjp	0
 鞝	vpg	0
-𦓼	gol	0
 𣣋	lnq	0
 鹵	lma	0
 鏒	soj	0
@@ -10819,7 +10817,6 @@ encoder:
 敊	uxp	0
 𢻹	pjw	0
 𨄗	kuz	0
-𩨻	vmg	0
 𤸬	ugb	0
 蝑	xhi	0
 䅩	vgh	0
@@ -11578,7 +11575,6 @@ encoder:
 佧	kmr	0
 𤸯	spb	0
 鄤	mje	0
-藬	ttc	0
 灮	gwh	0
 𦵬	zhc	0
 𣩈	zsd	0
@@ -11617,7 +11613,6 @@ encoder:
 榊	usm	0
 韘	uiw	0
 癑	nyb	0
-𨾡	huv	0
 𦯒	ypc	0
 𥤐	lrh	0
 𨇦	ijz	0
@@ -11890,7 +11885,6 @@ encoder:
 塕	wyt	0
 䧉	lge	0
 㸝	kop	0
-𥣯	yxh	0
 㑿	vvr	0
 𢁘	snj	0
 𥰭	vmv	0
@@ -12403,6 +12397,7 @@ Bilibili	bv
 风格	fg
 干啥	g
 感觉	gj
+感动	gd
 过来	gl
 过去	gq
 干什么	gsm
@@ -12841,3 +12836,6 @@ Bilibili	bv
 泳	endu	1
 泳	yndu	2
 召	vvd	2
+尝	iwyx	2
+藿	hpcv	2
+膝	xjou	2
