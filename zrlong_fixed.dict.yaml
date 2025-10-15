@@ -4,7 +4,7 @@
 # author: 晡时之光 -> modded by Elflare
 ---
 name: zrlong_fixed
-version: "2025-08-23 21:31:48"
+version: "2025-10-15 15:35:16"
 sort: by_weight
 columns:
   - text
@@ -1282,7 +1282,7 @@ encoder:
 阻	zme	187918
 例	ltr	187039
 睁	vco	186982
-岛	dxn	186833
+岛	dxu	186833
 瞪	dfo	186802
 慕	mhx	186450
 皱	vri	186309
@@ -2153,7 +2153,6 @@ encoder:
 芸	yfc	59910
 考	kx	59906
 溪	xjd	59612
-读	dry	59480
 谎	huy	59414
 鼎	dwo	59165
 稿	gxh	59162
@@ -2185,6 +2184,7 @@ encoder:
 打	duf	57646
 兮	xjb	57566
 雯	wsy	57561
+颠	dry	57525
 狮	ujq	57466
 邻	lce	57417
 骇	hom	57380
@@ -2601,7 +2601,6 @@ encoder:
 蝴	hli	33327
 莽	mpc	33238
 弩	nmg	33228
-祷	dxu	33213
 稚	vth	33182
 衙	yur	33073
 咸	xvk	33066
@@ -2964,7 +2963,6 @@ encoder:
 邹	zxe	19321
 婪	lkn	19194
 辖	xci	19178
-炭	tju	19147
 簇	chv	19096
 螺	lli	19077
 酱	jey	19063
@@ -3051,6 +3049,7 @@ encoder:
 卜	bpa	17210
 镯	vlj	17202
 兑	dfb	17197
+碳	tju	17195
 尧	yig	17147
 泡	pqd	17127
 梢	uqm	17127
@@ -6199,6 +6198,7 @@ encoder:
 珷	wmw	2
 庤	vtg	2
 屼	whu	2
+雫	nmy	2
 羕	edy	1
 鄞	ece	1
 掾	ecf	1
@@ -6224,7 +6224,6 @@ encoder:
 儳	ikr	1
 峘	hou	1
 鲪	jgy	1
-乸	nmy	1
 伭	xvr	1
 嵲	nqu	1
 萚	tpc	1
@@ -6905,7 +6904,6 @@ encoder:
 䉗	ejv	0
 㸣	eip	0
 𣨝	esd	0
-坕	jev	0
 謓	iey	0
 拁	euf	0
 欭	etq	0
@@ -8287,7 +8285,6 @@ encoder:
 㦻	xbg	0
 猈	biq	0
 𢾆	kbw	0
-䶡	ubi	0
 膱	vbo	0
 㽯	xbt	0
 䈲	bnv	0
@@ -10285,7 +10282,6 @@ encoder:
 𡂩	lqk	0
 輆	kui	0
 𤹞	iib	0
-𪐝	toh	0
 飱	sgd	0
 彎	wng	0
 𦁗	uis	0
@@ -11162,7 +11158,6 @@ encoder:
 𦍀	njs	0
 剻	pyd	0
 𢀘	ylg	0
-䵏	lxh	0
 挼	rtf	0
 鼤	wsu	0
 𡉴	hht	0
@@ -12403,6 +12398,7 @@ Bilibili	bv
 干什么	gsm
 关系	gx
 还是	h
+好慢	hm	1
 还不	hdb
 回去	hwq
 还有	hde
@@ -12480,12 +12476,14 @@ Bilibili	bv
 时间	sj
 虽然	sr
 所有	sy
+她	t	1
 他们	tm
 天气	tq
 天天	tt
 头像	tx
 讨厌	ty
 是什么	u
+时常	ui
 是不是	ubu
 加把劲	jbj	1
 审批	uop
@@ -12839,3 +12837,5 @@ Bilibili	bv
 尝	iwyx	2
 藿	hpcv	2
 膝	xjou	2
+惜	xjxo	2
+裴	prf	2
