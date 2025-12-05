@@ -21,7 +21,7 @@ jobs:
 
       - name: Create release zip archive
         run: |
-          zip -r zrlong_v${{ env.VERSION }}.zip . -x ".*" -x "*/.*"
+          zip -r zrlong_v${{ env.VERSION }}.zip . -x ".*" -x "*/.*" -x "index.html"
 
       - name: Upload Release File
         uses: softprops/action-gh-release@v2
