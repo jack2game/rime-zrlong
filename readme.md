@@ -216,7 +216,7 @@
 
 ## 鸣谢
 
-原作者: [晡时之光](https://hanxinma.gitlab.io/longma/zrl)
+原作者: [晡时之光](https://hanxinma.gitlab.io/longma/ziranlong/)
 
 - Rime 项目所发布的高品质输入法程序和词库
 - [℞ 魔然](https://github.com/ksqsf/rime-moran)：反查、造词、中文数字小写转大写、Emoji、简码提示等均借鉴自魔然
