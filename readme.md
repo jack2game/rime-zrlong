@@ -2,9 +2,9 @@
 
 <p align="center">
 <a href="https://rimeinn.github.io/rime-zrlong/"><img src="https://img.shields.io/badge/%E5%AE%98%E6%96%B9%E7%BD%91%E7%AB%99-%E7%82%B9%E5%87%BB%E8%AE%BF%E9%97%AE-2ea44f?logo=github"/></a>
+<a href="https://hanxinma.github.io/js/xuexi5.html"><img src="https://img.shields.io/badge/%E9%80%9F%E5%AD%A6%E7%A8%8B%E5%BA%8F-%E7%82%B9%E5%87%BB%E7%BB%83%E4%B9%A0-blueviolet?logo=bookstack"/></a>
 <a href="https://qm.qq.com/q/yj4E0tBrOg"><img src="https://img.shields.io/badge/%E7%82%B9%E5%87%BB%E5%8A%A0%E5%85%A5%E7%BE%A4%E8%81%8A-%E9%BE%99%E7%A0%81%E9%9F%B3%E5%BD%A2-blue?logo=qq"/></a>
 <a href="https://my-rime.vercel.app/?plum=Elflare/rime-zrlong:zrlong,zrlong_sentence"><img src="https://img.shields.io/badge/%E7%BA%BF%E4%B8%8A%E8%AF%95%E7%94%A8-black?logo=rime"/></a>
-<!-- <a href="https://github.com/Elflare/rime-zrlong"><img src="https://img.shields.io/badge/GitHub-%E9%93%BE%E6%8E%A5-blue?logo=github"/></a> -->
 </p>
 
 ---
